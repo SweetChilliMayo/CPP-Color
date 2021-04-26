@@ -10,11 +10,9 @@ std::cout << Color::RED << "Hello World!" << Color::CLEAR << std::endl;
 ```
 
 **Output**
-```
 <div class="text-purple">
   This text is purple, <a href="#" class="text-inherit">including the link</a>
 </div>
 
-```
 
 In the example above, we set the colour to red with ```Color::RED```, then define the text after that, and finally clear the colour so next lines aren't affected.
