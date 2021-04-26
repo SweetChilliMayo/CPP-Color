@@ -36,3 +36,10 @@ Color::BRIGHT_MAGENTA
 Color::BRIGHT_CYAN
 Color::BRIGHT_WHITE
 ```
+
+## How to Install
+
+Place the "Colors" folder in your project, then to use the library type:
+```
+#include "[directory]/Colors/Color.h"
+```
