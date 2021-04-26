@@ -10,9 +10,7 @@ std::cout << Color::RED << "Hello World!" << Color::CLEAR << std::endl;
 ```
 
 **Output**
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 
 In the example above, we set the colour to red with ```Color::RED```, then define the text after that, and finally clear the colour so next lines aren't affected.
